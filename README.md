@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anubhav Shukla</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhav082" alt="anubhav082" /></a> </p>
+
+![coding_gif](https://github.com/anubhav082/anubhav082/assets/91797411/65b07ca6-f4b4-4219-9610-2e6b4b3b5e03)
+
+
 
 <p align="left"> <a href="https://twitter.com/anubhavs2508" target="blank"><img src="https://img.shields.io/twitter/follow/anubhavs2508?logo=twitter&style=for-the-badge" alt="anubhavs2508" /></a> </p>
 
